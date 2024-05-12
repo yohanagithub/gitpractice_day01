@@ -5,5 +5,6 @@ public class Contents {
     //it tells the pages and the content
 
     //adding update to the contents page
+    //more update to the contents page
 
 }
